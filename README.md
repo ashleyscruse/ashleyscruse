@@ -1,4 +1,4 @@
-# Hey, I'm Ashley Scruse 👋
+# Hey, I'm Ashley Scruse 👋🏽
 
 I build AI-powered tools for founders, solopreneurs, and academics who want to do more with less.
 
