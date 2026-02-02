@@ -6,7 +6,7 @@ I build AI-powered tools for founders, solopreneurs, and academics who want to d
 
 ## What I'm Working On
 
-- 🛠️ **[AI Tools for Founders]([link](https://github.com/ashleyscruse/ai-tools-for-founders.git))** — Open-source tools for product validation, ideation, and analysis
+- 🛠️ **[AI Tools for Founders](https://github.com/ashleyscruse/ai-tools-for-founders.git)** — Open-source tools for product validation, ideation, and analysis
 
 ## Let's Connect
 
