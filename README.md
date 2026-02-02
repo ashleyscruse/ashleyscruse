@@ -6,9 +6,7 @@ I build AI-powered tools for founders, solopreneurs, and academics who want to d
 
 ## What I'm Working On
 
-- 🛠️ **[AI Tools for Founders](link)** — Open-source tools for product validation, ideation, and analysis
-- 📝 **[AI Grant Writing Prompt Pack](https://ashleyscruse.com/products)** — Launching January 2026
-- 📓 **[Skills to Ventures Workbook](https://ashleyscruse.com/products)** — Frameworks for turning expertise into income
+- 🛠️ **[AI Tools for Founders]([link](https://github.com/ashleyscruse/ai-tools-for-founders.git))** — Open-source tools for product validation, ideation, and analysis
 
 ## Let's Connect
 
