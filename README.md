@@ -2,7 +2,7 @@
 
 I build AI-powered tools for founders, solopreneurs, and academics who want to do more with less.
 
-**Academic by Day, Founder by Night.** PhD in bioinformatics. Leading HPC & ML programs at Morehouse College. Building a tech company on the side and documenting what works along the way.
+**Academic by Day, Founder by Night.** PhD in bioinformatics. Leading HPC & ML programs at Morehouse College. Building my own things on the side and documenting what works along the way.
 
 ## What I'm Working On
 
